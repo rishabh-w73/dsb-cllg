@@ -1,0 +1,12 @@
+#disp{
+    border: 10px solid green;
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 50%;
+}
+b1{
+    background-color: lightcoral;
+}
+b2{
+    background-color: lightcyan;
+}
